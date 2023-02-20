@@ -16,4 +16,3 @@ SOCIALS
 ----------------------------------------
 - Pexels Photography: https://www.pexels.com/@thewez1981/
 - Instagram: https://www.instagram.com/thewez1981/
-- GitHub: https://github.com/TheWez1981
