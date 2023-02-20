@@ -3,8 +3,7 @@ Folderart to use on the NES / FamiCom mini variants
 
 Boxart Templates designed by TheWez1981
 
-Various assets including the System logos and Systems art are taken 
-from the EmulationStation "Famicom-mini" & "NES-mini" Themes designed by Ruckage
+Various assets including the System logos and Systems art are taken from the EmulationStation "Famicom-mini" & "NES-mini" Themes designed by Ruckage
 https://github.com/ruckage
 
 THANK YOU FOR YOUR SUPPORT
@@ -15,6 +14,6 @@ THANK YOU FOR YOUR SUPPORT
 
 SOCIALS
 ----------------------------------------
-Pexels Photography: https://www.pexels.com/@thewez1981/
-Instagram: https://www.instagram.com/thewez1981/
-GitHub: https://github.com/TheWez1981
+- Pexels Photography: https://www.pexels.com/@thewez1981/
+- Instagram: https://www.instagram.com/thewez1981/
+- GitHub: https://github.com/TheWez1981
